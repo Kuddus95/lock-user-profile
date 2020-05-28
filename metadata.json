@@ -1,0 +1,13 @@
+{
+	"name": "Lock user profile",
+	"description": "This plugin is for locking user profile from anonymous visitors and not confirmed users",
+	"uri": "https://www.ask-ans.com",
+	"version": "0.4",
+	"date": "2010-05-14",
+	"editor": "Aman",
+	"license": "GPLv2",
+	"min_q2a": "1.7.5",
+	"min_php": "5.3",
+	"load_order": "after_db_init"
+	
+}
